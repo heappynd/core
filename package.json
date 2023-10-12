@@ -1,7 +1,7 @@
 {
   "private": true,
   "version": "3.3.4",
-  "packageManager": "pnpm@8.7.6",
+  "packageManager": "pnpm@8.9.0",
   "type": "module",
   "scripts": {
     "dev": "node scripts/dev.js",
@@ -66,7 +66,7 @@
     "@rollup/plugin-replace": "^5.0.2",
     "@rollup/plugin-terser": "^0.4.3",
     "@types/hash-sum": "^1.0.0",
-    "@types/node": "^16.18.52",
+    "@types/node": "^16.18.58",
     "@typescript-eslint/parser": "^6.7.2",
     "@vitest/coverage-istanbul": "^0.34.4",
     "@vue/consolidate": "0.17.3",
@@ -91,7 +91,7 @@
     "pretty-bytes": "^6.1.1",
     "pug": "^3.0.2",
     "puppeteer": "~21.2.1",
-    "rimraf": "^5.0.1",
+    "rimraf": "^5.0.5",
     "rollup": "^3.29.2",
     "rollup-plugin-dts": "^6.0.2",
     "rollup-plugin-esbuild": "^6.0.0",
@@ -102,7 +102,7 @@
     "terser": "^5.19.4",
     "todomvc-app-css": "^2.4.2",
     "tslib": "^2.6.2",
-    "tsx": "^3.12.10",
+    "tsx": "^3.13.0",
     "typescript": "^5.1.6",
     "vite": "^4.3.0",
     "vitest": "^0.34.4"
